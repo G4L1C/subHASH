@@ -1,5 +1,5 @@
 # subHASH
-Finds a collision for a given MD5 substring
+Finds a collision for a given MD5 substring. Specially developed to solve the **HackaFlag** captchas.
 
 Usage:
 ```
